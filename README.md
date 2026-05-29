@@ -58,16 +58,15 @@ little experiments in:
 🎧 latest obsession
 
 
+now playing...
+
 Obsession (2025)
 dir. Curry Barker
 
 ♫ soundtrack on repeat ↺
-
-notes + thoughts
-↓
 </pre>
 
-substack link here
+[open playlist ↺](https://open.spotify.com/playlist/1w7r8f7xgE5dIKZAdeiW2V?si=smO74aFtRcqPELHBCz7Otg)
 
 
 <pre>
@@ -86,12 +85,11 @@ currently:
 💌 connect.exe
 </pre>
 
-linkedin · email · letterboxd · spotify
+[linkedin](https://www.linkedin.com/in/mirakwon) ⊹ [email](mailto:mirakwon@gmail.com) ⊹ [letterboxd](https://boxd.it/2v2pj) ⊹ [spotify](https://open.spotify.com/user/31uu24tmrueq62ku5udtbz4epomq?si=z0K2CDuoRXWLsVCUjoNYjQ)
 
 
 <pre>
 🐠                               🎧
 </pre>
-
 
 </div>
