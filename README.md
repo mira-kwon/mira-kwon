@@ -16,75 +16,82 @@
 </pre>
 
 
-### ✧ about.txt
+<pre>
+✧ about.txt
 
-**Mira Kwon**  
+
+Mira Kwon
 Los Angeles, CA
 
 Penn '25 ୨୧
 
-studied stories + why people love them  
-*(cinema & media studies + consumer psychology)*
+studied stories + why people love them
+(cinema & media studies
++ consumer psychology)
 
-currently @ **United Talent Agency** 🎬
+currently @ United Talent Agency 🎬
+
 
 usually thinking about:
 
-⊹ independent films  
-⊹ internet culture  
-⊹ creative tools  
+⊹ independent films
+⊹ internet culture
+⊹ creative tools
 ⊹ things made by and for my generation
+</pre>
 
 
-<br>
+<pre>
+💽 projects.folder
 
-
-### 💽 projects.folder
 
 little experiments in:
 
-✧ creative tools  
-✧ digital things  
-✧ independent filmmaking  
+✧ creative tools
+✧ digital things
+✧ independent filmmaking
 ✧ ideas worth saving
+</pre>
 
 
-<br>
+<pre>
+🎧 latest obsession
 
 
-### 🎧 latest obsession
-
-**Obsession (2025)**  
+Obsession (2025)
 dir. Curry Barker
 
 ♫ soundtrack on repeat ↺
 
-notes + thoughts  
-↳ substack
+notes + thoughts
+↓
+</pre>
+
+substack link here
 
 
-<br>
+<pre>
+⌕ internet.tabs
 
-
-### ⌕ internet.tabs
 
 currently:
 
-🎞 films + entertainment  
-✎ essays worth saving  
+🎞 films + entertainment
+✎ essays worth saving
 ✧ internet finds
+</pre>
 
 
-<br>
+<pre>
+💌 connect.exe
+</pre>
 
-
-### 💌 connect.exe
-
-[linkedin](LINK) · [email](mailto:EMAIL) · [letterboxd](LINK) · [spotify](LINK)
+linkedin · email · letterboxd · spotify
 
 
 <pre>
 🐠                               🎧
 </pre>
+
 
 </div>
