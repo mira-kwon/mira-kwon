@@ -54,7 +54,7 @@ little experiments in:
 🎧 latest obsession
 
 
-now playing...
+now watching...
 
 Obsession (2025)
 dir. Curry Barker
