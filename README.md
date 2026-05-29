@@ -24,20 +24,17 @@ Mira Kwon
 Los Angeles, CA
 
 Penn '25 ୨୧
-
-studied stories + why people love them
 (cinema & media studies
 + consumer psychology)
 
-currently @ United Talent Agency 🎬
+currently @ United Talent Agency 
 
 
 usually thinking about:
 
-⊹ independent films
+⊹ indie film
 ⊹ internet culture
-⊹ creative tools
-⊹ things made by and for my generation
+⊹ Gen-Z stories
 </pre>
 
 
@@ -47,10 +44,9 @@ usually thinking about:
 
 little experiments in:
 
-✧ creative tools
-✧ digital things
-✧ independent filmmaking
-✧ ideas worth saving
+✧ creative systems
+✧ playful tech 
+✧ optimization
 </pre>
 
 
