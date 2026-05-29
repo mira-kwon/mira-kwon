@@ -1,14 +1,20 @@
 <div align="center">
 
-# 🐟 MIRA OS 💿
+<pre>
+🐟                               💿
 
-### mira-kwon.exe
 
-### building creative systems
+             MIRA OS
 
-📹　　　　　　　　　　　　　　　　⭐
+          mira-kwon.exe
 
-<br>
+
+      building creative systems
+
+
+📹                               ⭐
+</pre>
+
 
 ### ✧ about.txt
 
@@ -29,7 +35,9 @@ usually thinking about:
 ⊹ creative tools  
 ⊹ things made by and for my generation
 
+
 <br>
+
 
 ### 💽 projects.folder
 
@@ -40,7 +48,9 @@ little experiments in:
 ✧ independent filmmaking  
 ✧ ideas worth saving
 
+
 <br>
+
 
 ### 🎧 latest obsession
 
@@ -52,7 +62,9 @@ dir. Curry Barker
 notes + thoughts  
 ↳ substack
 
+
 <br>
+
 
 ### ⌕ internet.tabs
 
@@ -62,15 +74,17 @@ currently:
 ✎ essays worth saving  
 ✧ internet finds
 
+
 <br>
+
 
 ### 💌 connect.exe
 
 [linkedin](LINK) · [email](mailto:EMAIL) · [letterboxd](LINK) · [spotify](LINK)
 
 
-<br>
-
-🐠　　　　　　　　　　　　　　　　🎧
+<pre>
+🐠                               🎧
+</pre>
 
 </div>
