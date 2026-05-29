@@ -1,23 +1,16 @@
 <div align="center">
 
-🐟　　　　　　　　　　　　　　　　💿
-
-
-# MIRA OS
+# 🐟 MIRA OS 💿
 
 ### mira-kwon.exe
 
 ### building creative systems
 
-
-📹　　　　　　　　　　　　　　　　　⭐
-
+📹　　　　　　　　　　　　　　　　⭐
 
 <br>
 
-
-## ✧ about.txt
-
+### ✧ about.txt
 
 **Mira Kwon**  
 Los Angeles, CA
@@ -29,7 +22,6 @@ studied stories + why people love them
 
 currently @ **United Talent Agency** 🎬
 
-
 usually thinking about:
 
 ⊹ independent films  
@@ -37,14 +29,9 @@ usually thinking about:
 ⊹ creative tools  
 ⊹ things made by and for my generation
 
-
 <br>
 
-🫧　　　　　　　　　　　　　　　　📟
-
-
-## 💽 projects.folder
-
+### 💽 projects.folder
 
 little experiments in:
 
@@ -53,12 +40,9 @@ little experiments in:
 ✧ independent filmmaking  
 ✧ ideas worth saving
 
-
 <br>
 
-
-## 🎧 latest obsession
-
+### 🎧 latest obsession
 
 **Obsession (2025)**  
 dir. Curry Barker
@@ -68,12 +52,9 @@ dir. Curry Barker
 notes + thoughts  
 ↳ substack
 
-
 <br>
 
-
-## ⌕ internet.tabs
-
+### ⌕ internet.tabs
 
 currently:
 
@@ -81,20 +62,15 @@ currently:
 ✎ essays worth saving  
 ✧ internet finds
 
-
 <br>
 
+### 💌 connect.exe
 
-## 💌 connect.exe
-
-
-[linkedin](LINK_HERE) · [email](mailto:EMAIL_HERE) · [letterboxd](LINK_HERE) · [spotify](LINK_HERE)
+[linkedin](LINK) · [email](mailto:EMAIL) · [letterboxd](LINK) · [spotify](LINK)
 
 
 <br>
-
 
 🐠　　　　　　　　　　　　　　　　🎧
-
 
 </div>
