@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mira-kwon/mira-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐟　　　　　　　　　　　　　　　　💿
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# MIRA OS
+
+### mira-kwon.exe
+
+### building creative systems
+
+
+📹　　　　　　　　　　　　　　　　　⭐
+
+
+<br>
+
+
+## ✧ about.txt
+
+
+**Mira Kwon**  
+Los Angeles, CA
+
+Penn '25 ୨୧
+
+studied stories + why people love them  
+*(cinema & media studies + consumer psychology)*
+
+currently @ **United Talent Agency** 🎬
+
+
+usually thinking about:
+
+⊹ independent films  
+⊹ internet culture  
+⊹ creative tools  
+⊹ things made by and for my generation
+
+
+<br>
+
+🫧　　　　　　　　　　　　　　　　📟
+
+
+## 💽 projects.folder
+
+
+little experiments in:
+
+✧ creative tools  
+✧ digital things  
+✧ independent filmmaking  
+✧ ideas worth saving
+
+
+<br>
+
+
+## 🎧 latest obsession
+
+
+**Obsession (2025)**  
+dir. Curry Barker
+
+♫ soundtrack on repeat ↺
+
+notes + thoughts  
+↳ substack
+
+
+<br>
+
+
+## ⌕ internet.tabs
+
+
+currently:
+
+🎞 films + entertainment  
+✎ essays worth saving  
+✧ internet finds
+
+
+<br>
+
+
+## 💌 connect.exe
+
+
+[linkedin](LINK_HERE) · [email](mailto:EMAIL_HERE) · [letterboxd](LINK_HERE) · [spotify](LINK_HERE)
+
+
+<br>
+
+
+🐠　　　　　　　　　　　　　　　　🎧
+
+
+</div>
